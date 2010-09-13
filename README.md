@@ -1,5 +1,5 @@
-Mobilzr
-=======
+Mobilizr
+========
 
 First shot at a lib to provide mobile browser detection and some useful mobile browser info and manipulation functions.
 
